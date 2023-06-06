@@ -2,7 +2,7 @@
 function Count() {
   return (
     <div className="App">
-    The Ghana Ghana
+   
     </div>
   );
 }
